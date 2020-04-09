@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JinhyukPodTestLog_Tests' do
+  pod 'JinhyukPodTestLog', :path => '../'
+  
+  
+end
