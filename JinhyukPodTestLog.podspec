@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'JinhyukPodTestLog'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = 'A short description of JinhyukPodTestLog.'
 
   s.description      = "This is JinhyukPodTestLog TestProject"
